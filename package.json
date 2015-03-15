@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "description": "A repo for testing different TravisCI setups.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scottdoxey/test.git"
+  },
+  "private": true
+}
