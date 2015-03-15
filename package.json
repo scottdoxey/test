@@ -5,5 +5,8 @@
     "type": "git",
     "url": "git://github.com/scottdoxey/test.git"
   },
+  "scripts": {
+    "test": "make test"
+  },
   "private": true
 }
